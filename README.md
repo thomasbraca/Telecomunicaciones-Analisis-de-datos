@@ -5,7 +5,7 @@
 # <h1 align="center">**`Telecomunicaciones`**</h1>
 
 <p align='center'>
-<img src="./pictures/banner.jpg" >
+<img src="./pictures/Banner.jpg" >
 <p>
 
 ## Descripción
